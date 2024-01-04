@@ -5,7 +5,7 @@ Andrew Formosa built this app as a free to use educational game.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information.
 
-Information Collection and Use
+<h3>Information Collection and Use</h3>
 
 The information that we request is retained on your device and is not collected by us in any way.
 
