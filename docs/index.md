@@ -1,4 +1,4 @@
-Privacy Policy For Keybo Music Note Trainer by AJFormosa
+<h2>Privacy Policy For Keybo Music Note Trainer by AJFormosa</h2>
 
 
 Andrew Formosa built this app as a free to use educational game.
